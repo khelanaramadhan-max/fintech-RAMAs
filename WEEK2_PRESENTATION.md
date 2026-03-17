@@ -1,4 +1,4 @@
-# 📊 Week 2 Presentation — Fintech Banking System
+# 📊 2nd week presentation — Fintech Banking System
 **Course: 2025-2026 FinTech · Department of International Trade and Business**  
 **Team 2 · Presentation Date: Week 2**
 

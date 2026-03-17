@@ -8,7 +8,7 @@
 
 | 🔗 Link | URL |
 |---|---|
-| GitHub | https://github.com/your-username/fintech-core-banking |
+| GitHub | https://khelanaramadhan-max.github.io/fintech-RAMAs/ |
 | Live Frontend | https://fintech-core-banking.pages.dev |
 | API Docs (Swagger) | http://localhost:8000/docs |
 | ReDoc | http://localhost:8000/redoc |
